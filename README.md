@@ -11,6 +11,8 @@ With my past experiences, I have developed skills as a self-starter, the ability
 + 🛒 As a passion-project, I have curated an online shop for home decor, featuring products made only by makers and artists (over 40 of them!) in BC, Canada.
 
 + 🪴 I’m a self-classified "Renaissance Woman", which means I like to do a little bit of everything.. 
+
++ 📫 elle.a.gassner@gmail.com
 <!---
 ellegassner/ellegassner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
