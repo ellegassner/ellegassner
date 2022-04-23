@@ -4,7 +4,7 @@
 
 With my past experiences, I have developed skills as a self-starter, the ability to solve complex problems, and adapt to changing environments.
 
-+ :eyes Check out my portfolio at https://www.ellegassner.com/ 
++ :eyes: Check out my portfolio at https://www.ellegassner.com/ 
 
 + 🏫 Continuously working to build my skills in HTML5, CSS3, Sass, JavaScript/jQuery, and React.
 
