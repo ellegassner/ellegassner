@@ -8,7 +8,7 @@ With my past experiences, I have developed skills as a self-starter, the ability
 
 + 🏫 Continuously working to build my skills in HTML5, CSS3, Sass, JavaScript/jQuery, and React.
 
-+ 🛒 As a passion-project, I have curated an online shop for home decor, featuring products made only by makers and artists (over 40 of them!) in BC, Canada.
++ 🛒 As a passion-project, I have curated an online shop for home decor, featuring products made only by makers and artists (over 40 of them!) in BC, Canada. Check it out here - https://bcmakerscollective.com/
 
 + 🪴 I’m a self-classified "Renaissance Woman", which means I like to do a little bit of everything.. 
 
